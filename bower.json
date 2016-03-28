@@ -1,0 +1,26 @@
+{
+  "name": "flexboxpage",
+  "authors": [
+    "Alexandre Roch <maycon.alex.rocha@hotmail.com>"
+  ],
+  "description": "exemplo pratico usando flexbox com angularjs",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "flexbox",
+    "css3",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3"
+  }
+}
